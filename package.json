@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cloudipsp-node-js-sdk": "^1.0.8",
+    "uuid": "^9.0.1"
+  }
+}
